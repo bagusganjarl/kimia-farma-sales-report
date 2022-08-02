@@ -17,7 +17,7 @@ Created a **data mart** to set as **visualization dashboard** using **Google Dat
 
 ## **Created Data Mart**
 1. Firstly, I queried the **3 dataset** to be 1 table as **base table** and determine the **primary key** by concatenate the `id_invoice` and `id_barang`. 
-2. After created base table, I create the **aggregate table** which sum of the **jumlah_barang** multiple **harga**. Exported the **aggregate table** to **CSV** for data source in **Google Data Studio**.
+2. After created base table, I create the **aggregate table** which sum of the `jumlah_barang` multiple `harga`. Exported the **aggregate table** to **CSV** for data source in **Google Data Studio**.
 
 ## **Visualization**
 Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936)
