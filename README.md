@@ -20,7 +20,7 @@ Created a **data mart** to set as **visualization dashboard** using **Google Dat
 2. After created base table, I create the **aggregate table** which sum of the `jumlah_barang` multiple `harga`. Exported the **aggregate table** to **CSV** for data source in **Google Data Studio**.
 
 ## **Visualization**
-Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936)
+Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need [here](https://datastudio.google.com/reporting/7613d646-8f1b-479d-b69b-a60ef1236936).
    <p align="center">
     <img width="958" alt="Screen Shot 2022-08-02 at 17 14 27" src="https://user-images.githubusercontent.com/103989278/182351168-cad7aac5-3a70-42d7-b05e-b0d09e73bcf2.png"><br>
     Figure 1: Sales Reports PT Kimia Farma 
